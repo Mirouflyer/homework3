@@ -1,0 +1,11 @@
+package singleton;
+
+public class Singlton {
+
+		
+		private Singlton() {}
+		
+   
+	
+
+}

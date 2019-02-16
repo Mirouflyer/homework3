@@ -1,0 +1,17 @@
+package homework3;
+
+public class GenerateId {
+	
+	
+	private GenerateId() {}
+	
+	public static GenerateId getId() {
+		GenerateId stId = new GenerateId();
+		return stId;
+		
+	}
+	
+    StudentInformation md = new StudentInformation(); 
+    
+    
+}

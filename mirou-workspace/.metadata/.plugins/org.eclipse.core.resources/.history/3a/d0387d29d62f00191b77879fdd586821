@@ -1,0 +1,11 @@
+package homework3;
+
+public class Student {
+
+	private String firstName=null;
+	private String familyName=null;
+	private String dateOfBirth=null;
+	private int age =0;
+	private String Address=null;
+	
+}

@@ -1,0 +1,14 @@
+package homework3;
+
+public class Student  {
+
+	private String stName=null;	
+	private String stDateOfBirth=null;
+	private int    stAge =0;
+	
+	
+	public Student(String stName, String stDateOfBirth, String dateOfBirth) {
+		
+	}
+
+}

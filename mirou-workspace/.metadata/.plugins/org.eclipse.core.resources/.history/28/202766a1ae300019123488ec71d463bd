@@ -1,0 +1,26 @@
+package homework3;
+
+import java.util.Scanner;
+
+
+public class TestProcessStudentInformation {
+
+	public static void main(String[] args) {
+
+         System.out.println("----------SUCCESS COLLEGE-------------");
+         System.out.println("Student Information Processing Program\n");
+         
+         
+        	 do {
+      	 
+        	 System.out.println("1-Student information");
+             System.out.println("2-Courses");
+             System.out.println("3-Students Exams Results\n");
+             System.out.println("Make your choise:");
+		      Scanner sc = new Scanner(System.in); 
+		     int choice = sc.nextInt();
+        
+	}while (mode!=1 && mode!=2 && mode!=3);
+	}
+}
+	

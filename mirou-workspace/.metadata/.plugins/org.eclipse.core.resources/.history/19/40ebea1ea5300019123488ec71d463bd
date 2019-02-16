@@ -1,0 +1,20 @@
+package homework3;
+
+
+
+
+public class TestProcessStudentInformation {
+
+	public static void main(String[] args) {
+
+         System.out.println("--------SUCCESS COLLEGE--------------- ");
+         System.out.println("Student Information Processing Program");
+         System.out.println("1-Student information/n");
+         System.out.println("2-Courses");
+         System.out.println("Students Exams Results");
+		
+		
+
+	}
+
+}

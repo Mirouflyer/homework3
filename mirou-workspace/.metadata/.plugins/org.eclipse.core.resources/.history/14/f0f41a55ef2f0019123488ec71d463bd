@@ -1,0 +1,17 @@
+package singleton;
+
+public class Singleton {
+
+		
+		private Singleton() {}
+		
+	private Singleton single = new Singleton();
+   public static Singleton getInstance() {
+	   this.single =single;
+	   return single;
+   }
+
+   public void eureka () {
+	   System.out.println("Ahh singleton works like that");
+   }
+}

@@ -1,0 +1,17 @@
+package homework3;
+
+public class Enum {
+
+	public enum Color {
+		
+		RED,BLUE,GREEN
+	}
+	
+	 
+	public static void main(String[] args) {
+
+     Color cr = cr.RED ;
+     System.out.println("Print Enum color"+cr);
+	}
+
+}

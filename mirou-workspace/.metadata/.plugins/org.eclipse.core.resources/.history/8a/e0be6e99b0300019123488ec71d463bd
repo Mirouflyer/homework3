@@ -1,0 +1,38 @@
+package homework3;
+
+import java.util.Scanner;
+
+public class StudentInformation {
+	
+	private String stName = null;
+	private String stDateOfBirth =null;
+	private String address =null;
+	
+	  Scanner input = new Scanner(System.in);
+	
+	
+	public String getStName() {
+		return stName;
+	}
+	public void setStName() {		
+		this.stName = stName;
+		System.out.println("Enter a name:\n");
+		stName=input.nextLine();
+	}
+	public String getStDateOfBirth() {
+		return stDateOfBirth;
+	}
+	public void setStDateOfBirth(String stDateOfBirth) {
+		this.stDateOfBirth = stDateOfBirth;
+		System.out.println("Enter the date of birth");
+		stDateOfBirth=input.nextLine();
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	
+
+}

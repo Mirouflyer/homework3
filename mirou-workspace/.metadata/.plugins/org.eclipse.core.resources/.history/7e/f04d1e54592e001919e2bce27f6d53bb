@@ -1,0 +1,12 @@
+package abstraction;
+import java.util.Scanner;
+public abstract class AirplaneShow implements Avion {
+	
+	public void location( ) {
+//		String []location = new String[5];
+//		Scanner input = new Scanner(System.in);
+//	    location []=input.nextLine();
+		System.out.println();
+	}
+
+}

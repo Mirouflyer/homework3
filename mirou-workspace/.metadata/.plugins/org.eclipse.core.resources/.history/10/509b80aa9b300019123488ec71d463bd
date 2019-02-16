@@ -1,0 +1,16 @@
+package singleton;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String name ="Mirou";
+		int id = 3456;
+		
+		
+		System.out.println(name.indexOf(1));
+		
+		
+	}
+
+}
+    

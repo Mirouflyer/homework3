@@ -1,0 +1,13 @@
+package codeLabexercise20760;
+
+public class TestValue {
+
+	public static void main(String[] args) {
+
+	Value cal = new Value(4);
+	cal.getValue();
+	cal.setValue(45);
+	
+    cal.wasModified();
+	}
+}

@@ -1,0 +1,12 @@
+package homework3;
+
+public class StringMethods {
+
+	public static void main(String[] args) {
+ String name= "Mirou" ;
+ char b ;
+ System.out.println(b = name.charAt(name.length()-1));
+
+	}
+
+}

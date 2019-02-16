@@ -1,0 +1,30 @@
+package abstraction;
+
+public class Plane extends AirPlaneShow {
+
+
+	public void fly() {
+		
+    System.out.println("The plane must have a special wings");
+		
+	}
+
+	
+	public void propultionType() {
+	System.out.println("The plane must have at least one reactror ");	
+		
+	}
+
+
+	public void planeType() {
+	System.out.println("");	
+		
+	}
+
+	
+	public void pilotTest() {
+	System.out.println("");	
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package homework3;
+
+
+
+
+public class TestProcessStudentInformation {
+
+	public static void main(String[] args) {
+
+         System.out.println("--------SUCCESS COLLEGE--------------- ");
+         System.out.println("Stundent Information Processing Program");
+		
+		
+
+	}
+
+}

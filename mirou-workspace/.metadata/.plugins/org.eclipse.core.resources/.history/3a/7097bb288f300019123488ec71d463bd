@@ -1,0 +1,13 @@
+package homework3;
+import java.util.Scanner;
+public class ProcessStrudentInformation {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to our Campus");
+		System.out.println("Please fill the information bellow: ");
+		Scanner input = new Scanner(System.in);
+		System.out.println("First Name :"+input.nextLine());
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package homework3;
+
+public class ProcessStrudentInformation {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to our Campus");
+		System.out.println("In order to serve you, please fill the information bellow: ");
+
+	}
+
+}

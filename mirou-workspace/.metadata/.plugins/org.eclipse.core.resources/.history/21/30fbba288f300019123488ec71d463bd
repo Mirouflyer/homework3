@@ -1,0 +1,8 @@
+package homework3;
+
+public interface StudentInformation {
+	
+	
+	public int courseCompletionYear();
+	
+}

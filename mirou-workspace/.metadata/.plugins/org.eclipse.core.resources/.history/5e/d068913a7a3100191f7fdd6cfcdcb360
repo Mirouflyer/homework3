@@ -1,0 +1,14 @@
+package homework3;
+
+public class Courses implements Picture {
+
+	
+	public void getStudentPicture() {
+		System.out.println("Upload your picture");
+		
+	}
+	
+	
+	
+
+}

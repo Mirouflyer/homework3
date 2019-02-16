@@ -1,0 +1,10 @@
+package homework3;
+
+public interface StudentInformation {
+	
+	public String getFirstName();
+	public String getFamilyName();
+	public String getDateOfBirth();
+	public String getAdress();
+
+}

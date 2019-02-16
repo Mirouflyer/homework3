@@ -1,0 +1,6 @@
+package homework3;
+
+public enum Yearmonths {
+	January,February,March,April,May,June,July,Augst,September,October,November,December
+
+}
